@@ -1,19 +1,19 @@
 # 内容：Bilibili 哔哩哔哩
 # 数量：19条
-HOST,upos-hz-mirrorakam.akamaized.net
-HOST-SUFFIX,acg.tv
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,b23.tv
-HOST-SUFFIX,bigfun.cn
-HOST-SUFFIX,bigfunapp.cn
-HOST-SUFFIX,biliapi.com
-HOST-SUFFIX,biliapi.net
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-HOST-SUFFIX,biligame.com
-HOST-SUFFIX,biligame.net
-HOST-SUFFIX,bilivideo.cn
-HOST-SUFFIX,bilivideo.com
-HOST-SUFFIX,hdslb.com
-HOST-SUFFIX,im9.com
-HOST-SUFFIX,smtcdns.net
+HOST,upos-hz-mirrorakam.akamaized.net,Streaming
+HOST-SUFFIX,acg.tv,Streaming
+HOST-SUFFIX,acgvideo.com,Streaming
+HOST-SUFFIX,b23.tv,Streaming
+HOST-SUFFIX,bigfun.cn,Streaming
+HOST-SUFFIX,bigfunapp.cn,Streaming
+HOST-SUFFIX,biliapi.com,Streaming
+HOST-SUFFIX,biliapi.net,Streaming
+HOST-SUFFIX,bilibili.com,Streaming
+HOST-SUFFIX,bilibili.tv,Streaming
+HOST-SUFFIX,biligame.com,Streaming
+HOST-SUFFIX,biligame.net,Streaming
+HOST-SUFFIX,bilivideo.cn,Streaming
+HOST-SUFFIX,bilivideo.com,Streaming
+HOST-SUFFIX,hdslb.com,Streaming
+HOST-SUFFIX,im9.com,Streaming
+HOST-SUFFIX,smtcdns.net,Streaming
