@@ -1,77 +1,77 @@
 # 内容：Microsoft
 # 数量：75条
-HOST-KEYWORD,1drv
-HOST-KEYWORD,microsoft
-HOST-SUFFIX,aadrm.com
-HOST-SUFFIX,acompli.com
-HOST-SUFFIX,acompli.net
-HOST-SUFFIX,aka.ms
-HOST-SUFFIX,akadns.net
-HOST-SUFFIX,aspnetcdn.com
-HOST-SUFFIX,assets-yammer.com
-HOST-SUFFIX,azure.com
-HOST-SUFFIX,azure.net
-HOST-SUFFIX,azureedge.net
-HOST-SUFFIX,azurerms.com
-HOST-SUFFIX,bing.com
-HOST-SUFFIX,cloudapp.net
-HOST-SUFFIX,cloudappsecurity.com
-HOST-SUFFIX,edgesuite.net
-HOST-SUFFIX,gfx.ms
-HOST-SUFFIX,hotmail.com
-HOST-SUFFIX,live.com
-HOST-SUFFIX,live.net
-HOST-SUFFIX,lync.com
-HOST-SUFFIX,msappproxy.net
-HOST-SUFFIX,msauth.net
-HOST-SUFFIX,msauthimages.net
-HOST-SUFFIX,msecnd.net
-HOST-SUFFIX,msedge.net
-HOST-SUFFIX,msft.net
-HOST-SUFFIX,msftauth.net
-HOST-SUFFIX,msftauthimages.net
-HOST-SUFFIX,msftidentity.com
-HOST-SUFFIX,msidentity.com
-HOST-SUFFIX,msn.com
-HOST-SUFFIX,msocdn.com
-HOST-SUFFIX,msocsp.com
-HOST-SUFFIX,mstea.ms
-HOST-SUFFIX,o365weve.com
-HOST-SUFFIX,oaspapps.com
-HOST-SUFFIX,office.com
-HOST-SUFFIX,office.net
-HOST-SUFFIX,office365.com
-HOST-SUFFIX,officeppe.net
-HOST-SUFFIX,omniroot.com
-HOST-SUFFIX,onedrive.com
-HOST-SUFFIX,onenote.com
-HOST-SUFFIX,onenote.net
-HOST-SUFFIX,onestore.ms
-HOST-SUFFIX,outlook.com
-HOST-SUFFIX,outlookmobile.com
-HOST-SUFFIX,phonefactor.net
-HOST-SUFFIX,public-trust.com
-HOST-SUFFIX,sfbassets.com
-HOST-SUFFIX,sfx.ms
-HOST-SUFFIX,sharepoint.com
-HOST-SUFFIX,sharepointonline.com
-HOST-SUFFIX,skype.com
-HOST-SUFFIX,skypeassets.com
-HOST-SUFFIX,skypeforbusiness.com
-HOST-SUFFIX,staffhub.ms
-HOST-SUFFIX,svc.ms
-HOST-SUFFIX,sway-cdn.com
-HOST-SUFFIX,sway-extensions.com
-HOST-SUFFIX,sway.com
-HOST-SUFFIX,trafficmanager.net
-HOST-SUFFIX,uservoice.com
-HOST-SUFFIX,virtualearth.net
-HOST-SUFFIX,visualstudio.com
-HOST-SUFFIX,windows-ppe.net
-HOST-SUFFIX,windows.com
-HOST-SUFFIX,windows.net
-HOST-SUFFIX,windowsazure.com
-HOST-SUFFIX,windowsupdate.com
-HOST-SUFFIX,wunderlist.com
-HOST-SUFFIX,yammer.com
-HOST-SUFFIX,yammerusercontent.com
+HOST-KEYWORD,1drv,Microsoft Service
+HOST-KEYWORD,microsoft,Microsoft Service
+HOST-SUFFIX,aadrm.com,Microsoft Service
+HOST-SUFFIX,acompli.com,Microsoft Service
+HOST-SUFFIX,acompli.net,Microsoft Service
+HOST-SUFFIX,aka.ms,Microsoft Service
+HOST-SUFFIX,akadns.net,Microsoft Service
+HOST-SUFFIX,aspnetcdn.com,Microsoft Service
+HOST-SUFFIX,assets-yammer.com,Microsoft Service
+HOST-SUFFIX,azure.com,Microsoft Service
+HOST-SUFFIX,azure.net,Microsoft Service
+HOST-SUFFIX,azureedge.net,Microsoft Service
+HOST-SUFFIX,azurerms.com,Microsoft Service
+HOST-SUFFIX,bing.com,Microsoft Service
+HOST-SUFFIX,cloudapp.net,Microsoft Service
+HOST-SUFFIX,cloudappsecurity.com,Microsoft Service
+HOST-SUFFIX,edgesuite.net,Microsoft Service
+HOST-SUFFIX,gfx.ms,Microsoft Service
+HOST-SUFFIX,hotmail.com,Microsoft Service
+HOST-SUFFIX,live.com,Microsoft Service
+HOST-SUFFIX,live.net,Microsoft Service
+HOST-SUFFIX,lync.com,Microsoft Service
+HOST-SUFFIX,msappproxy.net,Microsoft Service
+HOST-SUFFIX,msauth.net,Microsoft Service
+HOST-SUFFIX,msauthimages.net,Microsoft Service
+HOST-SUFFIX,msecnd.net,Microsoft Service
+HOST-SUFFIX,msedge.net,Microsoft Service
+HOST-SUFFIX,msft.net,Microsoft Service
+HOST-SUFFIX,msftauth.net,Microsoft Service
+HOST-SUFFIX,msftauthimages.net,Microsoft Service
+HOST-SUFFIX,msftidentity.com,Microsoft Service
+HOST-SUFFIX,msidentity.com,Microsoft Service
+HOST-SUFFIX,msn.com,Microsoft Service
+HOST-SUFFIX,msocdn.com,Microsoft Service
+HOST-SUFFIX,msocsp.com,Microsoft Service
+HOST-SUFFIX,mstea.ms,Microsoft Service
+HOST-SUFFIX,o365weve.com,Microsoft Service
+HOST-SUFFIX,oaspapps.com,Microsoft Service
+HOST-SUFFIX,office.com,Microsoft Service
+HOST-SUFFIX,office.net,Microsoft Service
+HOST-SUFFIX,office365.com,Microsoft Service
+HOST-SUFFIX,officeppe.net,Microsoft Service
+HOST-SUFFIX,omniroot.com,Microsoft Service
+HOST-SUFFIX,onedrive.com,Microsoft Service
+HOST-SUFFIX,onenote.com,Microsoft Service
+HOST-SUFFIX,onenote.net,Microsoft Service
+HOST-SUFFIX,onestore.ms,Microsoft Service
+HOST-SUFFIX,outlook.com,Microsoft Service
+HOST-SUFFIX,outlookmobile.com,Microsoft Service
+HOST-SUFFIX,phonefactor.net,Microsoft Service
+HOST-SUFFIX,public-trust.com,Microsoft Service
+HOST-SUFFIX,sfbassets.com,Microsoft Service
+HOST-SUFFIX,sfx.ms,Microsoft Service
+HOST-SUFFIX,sharepoint.com,Microsoft Service
+HOST-SUFFIX,sharepointonline.com,Microsoft Service
+HOST-SUFFIX,skype.com,Microsoft Service
+HOST-SUFFIX,skypeassets.com,Microsoft Service
+HOST-SUFFIX,skypeforbusiness.com,Microsoft Service
+HOST-SUFFIX,staffhub.ms,Microsoft Service
+HOST-SUFFIX,svc.ms,Microsoft Service
+HOST-SUFFIX,sway-cdn.com,Microsoft Service
+HOST-SUFFIX,sway-extensions.com,Microsoft Service
+HOST-SUFFIX,sway.com,Microsoft Service
+HOST-SUFFIX,trafficmanager.net,Microsoft Service
+HOST-SUFFIX,uservoice.com,Microsoft Service
+HOST-SUFFIX,virtualearth.net,Microsoft Service
+HOST-SUFFIX,visualstudio.com,Microsoft Service
+HOST-SUFFIX,windows-ppe.net,Microsoft Service
+HOST-SUFFIX,windows.com,Microsoft Service
+HOST-SUFFIX,windows.net,Microsoft Service
+HOST-SUFFIX,windowsazure.com,Microsoft Service
+HOST-SUFFIX,windowsupdate.com,Microsoft Service
+HOST-SUFFIX,wunderlist.com,Microsoft Service
+HOST-SUFFIX,yammer.com,Microsoft Service
+HOST-SUFFIX,yammerusercontent.com,Microsoft Service
