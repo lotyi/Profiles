@@ -1,19 +1,19 @@
 # 内容：Bilibili 哔哩哔哩
 # 数量：19条
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
+HOST,upos-hz-mirrorakam.akamaized.net
+HOST-SUFFIX,acg.tv
+HOST-SUFFIX,acgvideo.com
+HOST-SUFFIX,b23.tv
+HOST-SUFFIX,bigfun.cn
+HOST-SUFFIX,bigfunapp.cn
+HOST-SUFFIX,biliapi.com
+HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.com
+HOST-SUFFIX,bilibili.tv
+HOST-SUFFIX,biligame.com
+HOST-SUFFIX,biligame.net
+HOST-SUFFIX,bilivideo.cn
+HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,hdslb.com
+HOST-SUFFIX,im9.com
+HOST-SUFFIX,smtcdns.net
