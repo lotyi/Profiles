@@ -1,8 +1,8 @@
 # 内容：Bahamut
 # 数量：6条
-USER-AGENT,*Anime
-HOST,gamer-cds.cdn.hinet.net
-HOST,gamer2-cds.cdn.hinet.net
-HOST-SUFFIX,bahamut.com.tw
-HOST-SUFFIX,gamer.com.tw
-HOST-SUFFIX,hinet.net
+USER-AGENT,Anime*,巴哈姆特動畫瘋
+HOST,gamer-cds.cdn.hinet.net,巴哈姆特動畫瘋
+HOST,gamer2-cds.cdn.hinet.net,巴哈姆特動畫瘋
+HOST-SUFFIX,bahamut.com.tw,巴哈姆特動畫瘋
+HOST-SUFFIX,gamer.com.tw,巴哈姆特動畫瘋
+HOST-SUFFIX,hinet.net,巴哈姆特動畫瘋
