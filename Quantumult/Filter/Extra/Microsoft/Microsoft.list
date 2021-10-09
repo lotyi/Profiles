@@ -1,7 +1,7 @@
 # 内容：Microsoft
 # 数量：75条
-#DOMAIN-KEYWORD,1drv
-#DOMAIN-KEYWORD,microsoft
+HOST-KEYWORD,1drv
+HOST-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
